@@ -19,7 +19,7 @@ To experience the Data Structures Visualizer, follow these simple steps:
 Clone the repository to your local machine.
 
 Copy code
-git clone https://github.com/YourUsername/data-structures-visualizer.git
+git clone https://github.com/Guruprasath-K/data-structures-visualizer.git
 Open the project using your preferred Java IDE.
 Run the application to launch the visualizer.
 
